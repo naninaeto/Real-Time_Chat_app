@@ -37,5 +37,11 @@ A full-featured real-time chat application built with modern technologies. Suppo
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/chat-app.git
-cd chat-app
+[git clone https://github.com/your-username/chat-app.git](https://github.com/naninaeto/Real-Time_Chat_app.git)
+frontend
+cd chat
+npm install
+npm run dev
+backend
+pip install the packages
+python app.py
